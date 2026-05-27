@@ -181,7 +181,3 @@ ECOMMERCE-APP/
 * **Description:** Automatically generates a formal MSD Appliances Invoice (e.g., #MSD-58). The document includes customer contact details, the delivery address, total amount paid, and the signature of the Authorized Signatory: JABIR.
 
 
-👤 Author
-JABIR - Authorized Signatory - MSD Appliances
-GitHub: @Jabirhu
-Ph: +91 8310426460
